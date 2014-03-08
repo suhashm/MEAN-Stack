@@ -1,0 +1,16 @@
+{
+  "name": "MultiVision",
+  "version": "0.0.0",
+  "authors": [
+    "suhashm <mandahasa2626@gmail.com>"
+  ],
+  "description": "\"Tech App\"",
+  "license": "MIT",
+  "dependencies": {
+    "toastr": "~2.0.1",
+    "jquery": "~2.1.0",
+    "angular": "~1.2.14",
+    "angular-resource": "~1.2.14",
+    "angular-route": "~1.2.14"
+  }
+}
