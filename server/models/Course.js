@@ -16,7 +16,7 @@ function createDefaultCourses() {
             Course.create({title: 'Visual Basic for Visual Basic Developers', featured: false, published: new Date('7/12/2013'), tags: ['VB']});
             Course.create({title: 'Pedantic C++', featured: true, published: new Date('1/1/2013'), tags: ['C++']});
             Course.create({title: 'JavaScript for Greater Good', featured: true, published: new Date('10/13/2013'), tags: ['JS']});
-            Course.create({title: 'Agile Methodology', featured: true, published: new Date('3/1/2013'), tags: ['Coding']});
+            Course.create({title: 'Agile Methodology', featured: true, published: new Date('3/1/2013'), tags: ['Misc']});
             Course.create({title: 'A Survival Guide to Code Reviews', featured: true, published: new Date('2/1/2013'), tags: ['Coding']});
             Course.create({title: 'Java Above and Beyond', featured: true, published: new Date('10/7/2013'), tags: ['Misc']});
             Course.create({title: 'Future of Robotics', featured: false, published: new Date('8/1/2013'), tags: ['Robotics']});
