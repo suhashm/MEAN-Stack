@@ -11,6 +11,7 @@ MEAN-Stack
   	<li>Jade Templating</li>
   	<li>Stylus CSS Pre-Processor</li>
   	<li>BootStrap for responsive design</li>	
+  	<li>Toastr (Notifications)</li>
   </ul>
 
 <b>Server Side Tech</b>

@@ -28,6 +28,8 @@ app.config(function($routeProvider, $locationProvider){
     $routeProvider.when('/profile', { templateUrl:'/partials/account/profile',
         controller: 'mvProfileCtrl', resolve: routeRoleChecks.user
     })
+    $routeProvider.when('/courses', { templateUrl:'/partials/courses/course-list', controller: 'mvCourseListCtrl'})
+    $routeProvider.when('/courses/:id', { templateUrl:'/partials/courses/course-details', controller: 'mvCourseDetailCtrl'})
 });
 
 
